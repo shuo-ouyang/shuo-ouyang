@@ -1,4 +1,4 @@
-### Hi there 👋
+From everybody knows to nobody knows.
 
 <!--
 **shuo-ouyang/shuo-ouyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shuo-ouyang)
 
-![](https://github-readme-stats.vercel.app/api?username=shuo-ouyang)
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuo-ouyang">
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shuo-ouyang&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
