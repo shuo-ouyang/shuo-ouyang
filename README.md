@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shuo-ouyang&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
 
+<br>
+
 - **Languages:** C/C++, Python
 - **Frameworks:** MXNet, TensorFlow, Horovod
 - **Develop Tools:** Git, Docker, VS Code, Vim, TMux
