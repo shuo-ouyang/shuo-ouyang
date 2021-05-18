@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuo-ouyang">
 
-[<img align="right" width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=shuo-ouyang&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shuo-ouyang&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
