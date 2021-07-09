@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Focus on machine learning system and high-performance computing.
 
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shuo-ouyang&theme=dark&show_icons=true">](https://metrics.lecoq.io/ouuan?template=classic)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=shuo-ouyang&theme=dark&show_icons=true">](https://metrics.lecoq.io/shuo-ouyang?template=classic)
 
 <br>
 
