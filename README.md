@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 <br>
 
-- **Languages:** C/C++, Python
-- **Frameworks:** MXNet, TensorFlow, Horovod
-- **Develop Tools:** Git, Docker, VS Code, Vim, TMux
-- **Libraries:** OpenMP, OpenMPI, CUDA, NCCL
+- **Languages:** C++11/14, Python
+- **Frameworks:** TensorRT, PyTorch
+- **Libraries:** CUDA, CUB, thrust, cuBLAS, cuDLA
