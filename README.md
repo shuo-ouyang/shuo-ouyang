@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 <br>
 
-- **Languages:** C++11/14, Python
+- **Languages:** C++, Python
 - **Frameworks:** TensorRT, PyTorch
-- **Libraries:** CUDA, CUB, thrust, cuBLAS, cuDLA
+- **Libraries:** CUDA, Triton, CuTe
